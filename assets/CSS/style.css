@@ -17,6 +17,7 @@ h1, h2{
 ul{
     text-decoration: none;
     list-style-type: none;
+    padding: 5px;
 }
 li:hover{
     font-weight: bold;
